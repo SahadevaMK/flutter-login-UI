@@ -1,5 +1,4 @@
+A part of #flutter100daysofcode. Let's create a beautiful and animated login/signup page UI with Flutter
 # Flutter Login UI
 
-[YouTube Speed Code](https://www.youtube.com/watch?v=6kaEbTfb444)
 
-[Design Credit](https://dribbble.com/shots/5871600-Login-screen-UI-Design/attachments)
